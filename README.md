@@ -1,6 +1,6 @@
 # Device
 
-# IoT device SDK for Java, Python, Spring
+# IoT device SDK for Java, Python, C++, Spring
 IoT device SDK for Java facilitates building devices and applications that connect and are managed by IoT Suite services.
 
 ## Features
